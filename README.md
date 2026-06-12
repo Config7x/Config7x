@@ -3,7 +3,7 @@
 
 که هر ۲۴ ساعت به‌روز می‌شوند🛸🚀
 
-https://github.com/Config7x/Config7x
+https://github.com/Config7x/Config7x/blob/main/v2ray%20Config7x.txt
 
 برای دریافت کانفیگ‌های بیشتر از جمله OpenVPN، WireGuard و آموزش‌های تکمیلی، حتماً به کانال تلگرام ما بپیوندید📡🛰️
 
