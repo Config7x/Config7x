@@ -1,7 +1,3 @@
-# توضیحات
-«برای دریافت کانفیگ‌های بیشتر شامل OpenVPN، WireGuard و دیگر پروتکل‌ها، حتماً به کانال تلگرام ما بپیوندید. در کانال، به روزترین و متنوع‌ترین کانفیگ‌ها رو رایگان دریافت کنید.»:t.me/@Config7x
-
-# کانفیگ‌ها
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.168.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime05.workers.dev&type=ws#%C2%B9%F0%9F%8F%9F%EF%B8%8F%EF%B4%BE%40Config7x%EF%B4%BF
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?path=%2F&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&fp=randomized&type=ws#²🏟️﴾@Config7x﴿
 vless://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.128.196:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=purnet.gmijcp.workers.dev&type=ws#³🚀﴾@Config7x﴿
