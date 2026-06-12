@@ -1,0 +1,24 @@
+# توضیحات
+«برای دریافت کانفیگ‌های بیشتر شامل OpenVPN، WireGuard و دیگر پروتکل‌ها، حتماً به کانال تلگرام ما بپیوندید. در کانال، به روزترین و متنوع‌ترین کانفیگ‌ها رو رایگان دریافت کنید.»:t.me/@Config7x
+
+# کانفیگ‌ها
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.168.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime05.workers.dev&type=ws#%C2%B9%F0%9F%8F%9F%EF%B8%8F%EF%B4%BE%40Config7x%EF%B4%BF
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?path=%2F&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&fp=randomized&type=ws#²🏟️﴾@Config7x﴿
+vless://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.128.196:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=purnet.gmijcp.workers.dev&type=ws#³🚀﴾@Config7x﴿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime08.workers.dev&type=ws#⁴⚡﴾@Config7x﴿
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@104.18.12.229:2095?path=%2F&security=&encryption=none&host=iioo.iioou.workers.dev&type=ws#⁵🎯﴾@Config7x﴿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.168.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime05.workers.dev&type=ws#⁶🔥﴾@Config7x﴿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.213.30:8880?security=&encryption=none&host=vms.lifetime51.workers.dev&type=ws#⁷🌍﴾@Config7x﴿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#⁸💎﴾@Config7x﴿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?path=%2F%3Fed&security=&encryption=none&host=vms.lifetime06.workers.dev&type=ws#⁹🛡️﴾@Config7x﴿
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#¹⁰🎮﴾@Config7x﴿
+vmess://eyJhZGQiOiIxNjIuMTkuMjU0LjIzMiIsImFpZCI6IjAiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiaWQiOiIwMWNjZmE3YS04ZGU3LTQ1MWQtYmQ0MS0xOTU3YWNhYmExNWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmVhbHRpbWUiLCJwb3J0IjoiMjA4NyIsInBzIjoiQENvbmZpZzd48J+HrvCfh7Lwn5u5Iiwic2N5IjoiYXV0byIsInNuaSI6ImRlNS50YXNrZmxvd2h1Yi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=&encryption=none&type=grpc#¹¹🌈﴾@Config7x﴿
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@139.59.189.127:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=shy-fog-af06.alvlirm333.workers.dev&fp=random&type=ws&allowInsecure=0&sni=shy-fog-af06.alvlirm333.workers.dev#¹²🎧﴾@Config7x﴿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplenllSDIyaUdTMVVEZWV3NXp6YlRpbXFlY3JHQktTUzFJc0VxaA@185.246.153.12:31348#¹³🏆﴾@Config7x﴿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime08.workers.dev&type=ws#¹⁴🚁﴾@Config7x﴿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.79.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime35.workers.dev&type=ws#¹⁵🌙﴾@Config7x﴿
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?path=%2F&security=&encryption=none&host=iioo.iioou.workers.dev&type=ws#¹⁶🎲﴾@Config7x﴿
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.23.4:2095?path=%2Ffp&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing.workers.dev&type=ws&sni=cnmfangbinxing.cnmfangbinxing.workers.dev#¹⁷🛰️﴾@Config7x﴿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?security=&encryption=none&host=vms.lifetime36.workers.dev&type=ws#¹⁸🔮﴾@Config7x﴿
+vless://5eb1cee0-dca8-4018-a667-2d2184975799@172.67.194.87:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=v2configlab.v2configlab14.workers.dev&type=ws#¹⁹🎪﴾@Config7x﴿
