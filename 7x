@@ -1,0 +1,6 @@
+//profile-title: base64:V0FSUCAoSVJDRik=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//support-url: https://t.me/V2rayNG_SPDNet
+//profile-web-page-url: https://ircf.space
+vless://fddbaf9d-4185-4ad7-924f-194df7456262@www.speedtest.net:2053?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=m2lost2.programmerdata.ir#XHTTP%20SUPER%20%F0%9F%87%B3%F0%9F%87%B1
